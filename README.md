@@ -8,10 +8,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal" />
-  <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF9D" alt="Cyber Security" />
+  <img src="https://img.shields.io/badge/CyberSecurity-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF9D" alt="Cyber Security" />
 </div>
-
-<br>
 
 ### 🐧 About Me
 
